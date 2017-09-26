@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Pedidos + Gostosos</string>
+    <string name="titulo_tab_promocoes">Promoções</string>
+    <string name="titulo_tab_cardapio">Cardápio</string>
+    <string name="titulo_tab_mais_pedidos">Mais Pedidos</string>
+    <string name="confirmar_pedido">Deseja confirmar o pedido? Valor total: R$ %.2f</string>
+    <string name="pedido_confirmado">Pedido confirmado: Total R$ %.2f</string>
+    <string name="titulo_tab_meu_pedido">Meu Pedido</string>
+    <string name="preco_em_reais">R$ %.2f</string>
+    <string name="item_removido">Item removido do pedido</string>
+    <string name="item_adicionado">Item adicionado ao pedido</string>
+    <string name="confirmar_pedido_title">Confirmar Pedido</string>
+    <string name="valor_total_pedido">R$ %.2f</string>
+</resources>
